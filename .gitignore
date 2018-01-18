@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# resources directory
+resources/
+
+# vim
+.*.sw[po]
